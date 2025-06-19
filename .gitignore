@@ -1,0 +1,16 @@
+# Build and VS files
+bin/
+obj/
+.vs/
+*.user
+*.pdb
+
+# Publish output
+publish/
+
+# System junk
+*.DS_Store
+Thumbs.db
+
+# SQLite file if private (optional)
+*.db
