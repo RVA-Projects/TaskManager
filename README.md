@@ -73,6 +73,6 @@ This project is released under the MIT License. Do what you want with it — jus
 
 If you like this project or want to collaborate, feel free to reach out!
 
-> 👨‍💻 Your Name – [andrei.v.ronai@gmail.com]  
-> 🌐 [work-in-progress]  
+> 👨‍💻 Andrei Valentin Ronai – [andrei.v.ronai@gmail.com]  
+> 🌐 Portfolio [https://rva-projects.github.io/portfolio/]  
 > 🐙 [github.com/RVA-Projects]
