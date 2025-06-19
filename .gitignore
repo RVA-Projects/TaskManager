@@ -12,5 +12,3 @@ publish/
 *.DS_Store
 Thumbs.db
 
-# SQLite file if private (optional)
-*.db
